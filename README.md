@@ -1,15 +1,15 @@
 # docker_webserver_assign
 ##1. Basic HTML Page:
-###We have created htm file that contains below code.
+##We have created htm file that contains below code.
 
-<html>
-    <head>
-        <title>docker</title>
-        <body>
-            Hello! first docker image!
-        </body>
-    </head>
-</html>
+#<html>
+    #<head>
+        #<title>docker</title>
+        #<body>
+            #Hello! first docker image!
+        #</body>
+    #</head>
+#</html>
 
 2.Nginx Configuration:
 We have set up nginx successfully on EC2 instance and its up and running fine. Kindly find below screenshot for same.
