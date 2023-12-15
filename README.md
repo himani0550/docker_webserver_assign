@@ -27,7 +27,8 @@ We have created Docker file. Kindly find below screenshot for same.
 ## 5. Push the image on ECR
 ![docker_images_ECR_console](https://github.com/himani0550/docker_webserver_assign/assets/77041503/8625aaa4-7df5-4dde-ba5e-2aa0b1c2958c)
 ![final_image](https://github.com/himani0550/docker_webserver_assign/assets/77041503/91f3061c-776f-46b5-8f05-301b75f007b3)
-![final_image](https://github.com/himani0550/docker_webserver_assign/assets/77041503/e958cc08-9bec-490b-8a52-8012b1cffe66)
+![html8080](https://github.com/himani0550/docker_webserver_assign/assets/77041503/29e42f7d-2596-4e13-87b9-87f547532642)
+
 
 
 
